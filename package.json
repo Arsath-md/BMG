@@ -21,7 +21,6 @@
     "tailwindcss": "^4.3.0"
   },
   "devDependencies": {
-    "@biomejs/biome": "2.2.0",
-    "@netlify/plugin-nextjs": "^5.15.11"
+    "@biomejs/biome": "2.2.0"
   }
 }
