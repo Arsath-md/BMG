@@ -9,7 +9,7 @@ export default function Footer() {
           {/* Brand */}
           <div>
             <h2 className="text-3xl font-black text-primary mb-4">
-              AvianElite
+              bmgpelletfeed
             </h2>
 
             <p className="text-zinc-400 leading-7 text-sm">
@@ -101,19 +101,19 @@ export default function Footer() {
             <div className="flex flex-col gap-4 text-sm text-zinc-400">
 
               <div>
-                📍 Chennai, Tamil Nadu
+                📍 Kuthalam, Tamil Nadu
               </div>
 
               <div>
-                📞 +91 99999 99999
+                📞 +91 95972 62001
               </div>
 
               <div>
-                ✉️ hello@avianelite.in
+                ✉️ bmgpelletfeed@gmail.com
               </div>
 
               <a
-                href="https://wa.me/919999999999"
+                href="https://wa.me/919597262001"
                 target="_blank"
                 className="bg-primary hover:bg-primary-dark transition px-5 py-3 rounded-xl text-black font-bold text-center mt-2"
               >

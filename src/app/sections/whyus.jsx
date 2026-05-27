@@ -12,7 +12,7 @@ export default function WhyUs() {
         {/* Heading */}
         <SectionHeading
           tag="WHY CHOOSE US"
-          title="The AvianElite Difference"
+          title="The BMG pellets Difference"
           sub="From raw material to your doorstep — every step reflects our obsession with quality."
         />
 
