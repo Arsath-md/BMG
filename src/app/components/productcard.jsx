@@ -144,7 +144,7 @@ function ProductCard({ p }) {
 
       {/* CTA */}
       <a
-        href={`https://wa.me/919999999999?text=Hi! I'd like to order *${p.name}* (${weight})`}
+        href={`https://wa.me/919597262001?text=Hi! I'd like to order *${p.name}* (${weight})`}
         target="_blank"
         rel="noopener noreferrer"
         className="
